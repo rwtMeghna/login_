@@ -14,7 +14,7 @@ export default function App() {
       setErr("");
       Setsubmitted(true);
     } else {
-      setErr("Inavlid username or password");
+      setErr("Invalid username or password");
       Setsubmitted(false);
     }
   };
